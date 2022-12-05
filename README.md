@@ -1,6 +1,6 @@
-- 👋 Hey, I’m @alliance24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python and machine learning
+- 👋 Hey, je suis @alliance24
+- 👀 Je suis intéressé par les animes, la programmation, les jeux-vidéos et la lecture
+- 🌱 Je suis actuellement entrain d'apprendre le  python et le machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: discord Alliance#1935
 
